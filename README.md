@@ -31,11 +31,6 @@ Passionate about turning ideas into code 💻 and solving real-world problems wi
 
 </div>
 
-## 📫 Let's Connect!
-
-Interested in collaborating on a project? Have a challenging problem you'd like to discuss? Or just want to network?
-Feel free to reach out to me at smithdoneque12@gmail.com 📧
-
 Remember: The best way to predict the future is to create it. Let's build something amazing together! 💻🌟
 
 "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
